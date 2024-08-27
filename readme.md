@@ -5,5 +5,5 @@ Esta es una página de prueba que contiene un formulario vacío.
 
 ## Screenshots
 
-![Foto Form](/public/image.png)
+![Foto Form](/public/image2.jpeg)
 
