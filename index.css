@@ -2,8 +2,8 @@ body {
     display: flex;
     font-family: sans-serif;
     font-size: 16px;
-    color: #f5f5f5;
-    background-color: #333;
+    color: #333;
+    background-color: #f5f5f5;
     height: 90vh;
     justify-content: center;
     align-items: center;
@@ -21,15 +21,23 @@ input {
     padding: 10px;
     border-radius: 5px;
     border: none;
+    background-color: #333;
+    color: #f5f5f5;
+}
+
+label {
+    font-weight: bold;
 }
 
 input[type="submit"] {
-    background-color: #f5f5f5;
-    color: #333;
+    background-color: #333;
+    color: #f5f5f5;
     cursor: pointer;
 }
 
+
 input[type="submit"]:hover {
-    background-color: #f1f382;
+    background-color: #3b2268;
     transition: 0.2s;
 }
+
